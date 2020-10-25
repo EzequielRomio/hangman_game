@@ -18,7 +18,7 @@ score_file = os.path.join(path, "saved_scores.txt")
 
 start = False
 
-print('Bienvenides al AhoArcade:')
+print('Ahorcado:')
 while not start:
     menu = input("""Elige una opción:
     1 - jugar 
